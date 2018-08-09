@@ -1,0 +1,10 @@
+setup.py
+pylib/__init__.py
+pylib/plot.py
+pylib/startup.py
+pylib/util.py
+pylib.egg-info/PKG-INFO
+pylib.egg-info/SOURCES.txt
+pylib.egg-info/dependency_links.txt
+pylib.egg-info/not-zip-safe
+pylib.egg-info/top_level.txt
